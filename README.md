@@ -1,51 +1,62 @@
 # Hi, I'm Kiran Marishetti 👋
 
-# Cloud & DevOps Engineer
+# ☁️ Cloud & DevOps Engineer
 
-Building Scalable, Automated & Cloud-Native Infrastructure with AWS, Azure, Kubernetes & DevOps Tools.
+**Building Scalable, Automated & Cloud-Native Infrastructure with AWS, Azure, Kubernetes & DevOps.**
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a Cloud & DevOps Engineer passionate about designing, automating, and deploying scalable cloud infrastructure. I enjoy working with AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, Linux, and CI/CD to build reliable and production-ready solutions.
+I am a passionate **Cloud & DevOps Engineer** focused on designing, automating, and deploying scalable cloud infrastructure. I enjoy building production-ready solutions using **AWS, Azure, Docker, Kubernetes, Terraform, Jenkins, Linux, Git, and CI/CD**.
 
-- 📍 Based in Bengaluru, India
+- 📍 Bengaluru, India
 - 🎓 B.E. Mechanical Engineering
 - ☁️ Transitioning into Cloud & DevOps Engineering
-- 🚀 Passionate about Automation, Infrastructure as Code & Kubernetes
+- 🚀 Passionate about Cloud, Automation & Infrastructure as Code
+- 🌱 Currently learning Amazon EKS, Helm, ArgoCD, GitOps, and Kubernetes Monitoring
 
 ---
 
-# 🛠️ Technical Skills
+# 🛠️ Tech Stack
 
-## ☁️ Cloud
-- AWS
-- Azure
+### ☁️ Cloud
 
-## 🚀 DevOps
-- Docker
-- Kubernetes
-- Jenkins
-- Terraform
-- Git
-- GitHub
-- CI/CD
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-## 💻 Operating Systems
-- Linux (Ubuntu)
+### 🚀 DevOps & Containers
 
-## 📜 Scripting
-- Shell Scripting
-- Python
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
-## 🗄️ Databases
-- MySQL
+### 💻 Operating System
 
-## 🌐 Web
-- Nginx
-- HTML
-- CSS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🔧 Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### ⚙️ CI/CD
+
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge)
+
+### 💻 Programming & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Shell Script](https://img.shields.io/badge/Shell_Scripting-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### 🗄️ Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🌐 Web Server
+
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -53,14 +64,17 @@ I am a Cloud & DevOps Engineer passionate about designing, automating, and deplo
 
 ## 🛒 Kubernetes E-Commerce Deployment
 
-An end-to-end Kubernetes project deploying a multi-tier e-commerce application using Deployments, Services, Persistent Volumes, Secrets, ConfigMaps and Ingress.
+**End-to-end deployment of a multi-tier e-commerce application on Kubernetes.**
 
-**Technologies**
+### Technologies
 
 - Kubernetes
 - Docker
 - MySQL
 - Nginx
+- ConfigMaps
+- Secrets
+- Persistent Volumes
 - Ingress
 - AWS EC2
 
@@ -68,14 +82,14 @@ An end-to-end Kubernetes project deploying a multi-tier e-commerce application u
 
 ## ☁️ Highly Available AWS Infrastructure using Terraform
 
-Provisioned production-style AWS infrastructure using Infrastructure as Code.
+Provisioned production-ready AWS infrastructure using Infrastructure as Code.
 
-**Features**
+### Features
 
 - VPC
 - Public & Private Subnets
 - EC2
-- ALB
+- Application Load Balancer
 - Auto Scaling
 - S3 Remote Backend
 - DynamoDB State Locking
@@ -86,13 +100,21 @@ Provisioned production-style AWS infrastructure using Infrastructure as Code.
 
 ## ⚙️ CI/CD Pipeline using Jenkins & Docker
 
-Built an automated deployment pipeline.
+Automated application deployment using Jenkins.
 
-**Pipeline**
+### Pipeline
 
-GitHub → Jenkins → Docker → AWS EC2
+```
+GitHub
+   ↓
+Jenkins
+   ↓
+Docker
+   ↓
+AWS EC2
+```
 
-**Tools**
+### Tools
 
 - Jenkins
 - Docker
@@ -103,7 +125,7 @@ GitHub → Jenkins → Docker → AWS EC2
 
 ## 🐳 Dockerized Applications
 
-Containerized applications using Docker images and Docker Compose for consistent deployments.
+Containerized applications using Docker and Docker Compose for consistent deployments across environments.
 
 ---
 
@@ -113,45 +135,39 @@ Containerized applications using Docker images and Docker Compose for consistent
 - Helm
 - ArgoCD
 - GitOps
-- Monitoring with Prometheus & Grafana
+- Prometheus
+- Grafana
 - Advanced Kubernetes
+
+---
+
+# 📊 GitHub Stats
+
+![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranmarishetti&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=kiranmarishetti&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmarishetti&layout=compact&theme=tokyonight)
 
 ---
 
 # 📫 Connect With Me
 
-- 💼 LinkedIn: *(Add your LinkedIn URL here)*
-- 📧 Email: *(Add your Email here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+- 📧 Email: YOUR_EMAIL@gmail.com
 
 ---
 
-# ⚡ Fun Fact
+# 💡 Fun Fact
 
-I enjoy automating repetitive tasks and building cloud infrastructure that is scalable, reliable, and easy to manage.
-
----
-
-## ⭐ Featured Technologies
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+I enjoy automating repetitive tasks, building cloud-native infrastructure, and continuously learning modern DevOps practices.
 
 ---
 
-## 📊 GitHub Stats
+## ⭐ Quote
 
-![Kiran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiranmarishetti&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiranmarishetti&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=kiranmarishetti&theme=tokyonight)
+> **"Automate everything. Build once. Deploy anywhere."**
 
 ---
 
-⭐ Thanks for visiting my GitHub Profile!
+⭐ **Thanks for visiting my GitHub profile! If you like my work, don't forget to star my repositories.**
